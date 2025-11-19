@@ -3,6 +3,6 @@ color: lightpink;
 background: deeppink;
  }
 header{ 
-    border-bottom: solid 2px rgb(red, green, blue);
+    border-bottom: solid 2px rgb(rgb(255, 0, 191), green, blue);
 }
 
