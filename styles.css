@@ -9,4 +9,11 @@ font-size: 32px;
 color: deeppink;
 background: rgb(rgb(255, 0, 191, 0.473);
 }
+.chamada{
+  background-color: blueviolet;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  display: flex;
+  justify-content: center;
 
+}
